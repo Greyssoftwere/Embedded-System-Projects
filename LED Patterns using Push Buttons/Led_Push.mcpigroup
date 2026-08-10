@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\MyProject.mcppi
+Project1=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\Led_Push.mcppi
+[ActiveProject]
+Index=1
